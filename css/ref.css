@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(221,201,168);
+
+}
+h1{
+    font-size: 1in;
+    font-weight: bolder;
+    color:whitesmoke ;
+    margin-left: 450px;
+}
+p{
+    font-size:25px;
+    margin-left: 400px;
+    color: rgb(49,49,61);
+}
+span{
+    
+    color:crimson;
+}
+ul{
+    margin-left: 350px;
+    font-size: 19px;
+}

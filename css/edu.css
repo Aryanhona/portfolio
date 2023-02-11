@@ -1,0 +1,50 @@
+body{
+    display:flex;
+    background-color:rgb(209,208,209);
+    
+}
+h1{
+    position:absolute;
+    margin-left: 500px;
+}
+.cun{
+    display:flex;
+    flex-direction: column;
+
+ }
+.containr1{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+    background-color: rgb(237,200,184);
+
+}
+.container2{
+    display: flex;
+    align-items: center;
+    float: left;
+    margin-top: 20px;
+    background-color: rgb(187,178,181);
+}
+
+.cun .container2 .img{
+    width: fit-content;
+    height: 10px;
+    
+}
+
+.container3{
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    background-color: rgb(237,200,184);
+}
+
+
+
+    
+
+    
+
+    
